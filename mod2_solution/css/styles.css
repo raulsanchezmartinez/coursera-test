@@ -25,11 +25,12 @@ p {
   width: 100%; 
 }
 
-div.relative {
+section.relative {
   position: relative;  
   border: 1px solid black;
   padding-top: 60px;
 } 
+
 
 div.absolute {
   position: absolute;
