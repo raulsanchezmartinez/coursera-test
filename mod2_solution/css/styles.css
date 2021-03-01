@@ -31,6 +31,11 @@ section.relative {
   padding-top: 60px;
 } 
 
+div.relative {
+  position: relative;  
+  border: 1px solid black;
+  padding-top: 60px;
+} 
 
 div.absolute {
   position: absolute;
